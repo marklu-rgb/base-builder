@@ -2,3 +2,4 @@
 Claude jest git :)
 slim 
 koszt
+tits
