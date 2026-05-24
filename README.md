@@ -4,3 +4,4 @@ slim
 koszt
 tits
 farcaster
+dzień 
