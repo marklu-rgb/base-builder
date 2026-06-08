@@ -5,3 +5,4 @@ koszt
 tits
 farcaster
 dzień 
+mecz 
