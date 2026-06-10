@@ -7,3 +7,4 @@ farcaster
 dzień 
 mecz 
 jxs
+QX80 
