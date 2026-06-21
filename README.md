@@ -9,3 +9,4 @@ mecz
 jxs
 QX80 
 DC 
+kuga
